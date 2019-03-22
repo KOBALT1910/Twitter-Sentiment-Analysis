@@ -1,4 +1,4 @@
-# sentimental_analysis_tweets
+# Twitter-Sentiment-Analysis
 Анализ тональности сообщений (бинарный). Датасет ~220к коротких сообщений.
 
 Датасет твиттов с сайта: http://study.mokoron.com/.
